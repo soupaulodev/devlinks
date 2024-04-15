@@ -26,5 +26,5 @@ Siga os passos a baixo para executar o projeto.
 Clone o repositório
 
 ```sh
-git clone https://github.com/danielcrubens/rocket.q.git
+git clone https://github.com/soupaulodev/devlinks.git
 ```
